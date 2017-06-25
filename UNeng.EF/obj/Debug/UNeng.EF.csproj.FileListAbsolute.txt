@@ -1,0 +1,4 @@
+F:\KSXT\UNeng.EF\bin\Debug\UNeng.EF.dll
+F:\KSXT\UNeng.EF\bin\Debug\UNeng.EF.pdb
+F:\KSXT\UNeng.EF\obj\Debug\UNeng.EF.dll
+F:\KSXT\UNeng.EF\obj\Debug\UNeng.EF.pdb

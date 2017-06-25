@@ -1,0 +1,9 @@
+F:\KSXT\UNeng.Service\bin\Debug\UNeng.Service.dll
+F:\KSXT\UNeng.Service\bin\Debug\UNeng.Service.pdb
+F:\KSXT\UNeng.Service\obj\Debug\UNeng.Service.csprojResolveAssemblyReference.cache
+F:\KSXT\UNeng.Service\obj\Debug\UNeng.Service.dll
+F:\KSXT\UNeng.Service\obj\Debug\UNeng.Service.pdb
+F:\KSXT\UNeng.Service\bin\Debug\UNeng.Common.dll
+F:\KSXT\UNeng.Service\bin\Debug\UNeng.EF.dll
+F:\KSXT\UNeng.Service\bin\Debug\UNeng.Common.pdb
+F:\KSXT\UNeng.Service\bin\Debug\UNeng.EF.pdb
