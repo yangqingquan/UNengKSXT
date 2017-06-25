@@ -1,0 +1,9 @@
+F:\KSXT\UNeng.Controllers\bin\Debug\UNeng.Controllers.dll
+F:\KSXT\UNeng.Controllers\bin\Debug\UNeng.Controllers.pdb
+F:\KSXT\UNeng.Controllers\obj\Debug\UNeng.Controllers.csprojResolveAssemblyReference.cache
+F:\KSXT\UNeng.Controllers\obj\Debug\UNeng.Controllers.dll
+F:\KSXT\UNeng.Controllers\obj\Debug\UNeng.Controllers.pdb
+F:\KSXT\UNeng.Controllers\bin\Debug\UNeng.Common.dll
+F:\KSXT\UNeng.Controllers\bin\Debug\UNeng.Service.dll
+F:\KSXT\UNeng.Controllers\bin\Debug\UNeng.Common.pdb
+F:\KSXT\UNeng.Controllers\bin\Debug\UNeng.Service.pdb
